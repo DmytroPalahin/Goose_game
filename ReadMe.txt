@@ -1,3 +1,3 @@
-Compilation de Projet :
+Project Compilation:
 
 py goose_game.py
